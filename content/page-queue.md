@@ -4,7 +4,7 @@ Ranked SEO expansion targets. Take the highest-priority item that is not already
 
 ## Sheffield suburb pages
 
-- [ ] Hillsborough — active PRs #1 and #2, do not duplicate in a new branch unless those PRs are closed without merge
+- [x] Hillsborough — built 2026-07-12 at `/areas-covered/hillsborough`
 - [x] Ecclesfield — built 2026-07-13 at `/areas-covered/ecclesfield`
 - [x] Fulwood — built 2026-07-14 at `/areas-covered/fulwood`
 - [ ] Dore

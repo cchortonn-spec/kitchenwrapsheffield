@@ -65,6 +65,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     url: `${SITE.url}${route}`,
     lastModified: new Date(),
     changeFrequency: route === "" ? "weekly" : "monthly",
-    priority: route === "" ? 1 : 0.8,
+    priority: route === "" ? 1 : route.startsWith("/areas-covered/") ? 0.7 : 0.8,
   }));
 }
