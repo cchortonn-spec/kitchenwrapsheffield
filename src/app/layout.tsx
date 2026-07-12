@@ -31,6 +31,14 @@ export const metadata: Metadata = {
   },
   description:
     "Vinyl kitchen wrapping in Sheffield. Transform your kitchen in 2–3 days at a fraction of replacement cost. Free no-obligation quotes. Call 07848 428975.",
+  icons: {
+    icon: [
+      { url: "/favicon.ico", sizes: "any" },
+      { url: "/favicon-16x16.png", sizes: "16x16", type: "image/png" },
+      { url: "/favicon-32x32.png", sizes: "32x32", type: "image/png" },
+    ],
+    apple: [{ url: "/apple-touch-icon.png", sizes: "180x180", type: "image/png" }],
+  },
   openGraph: {
     type: "website",
     locale: "en_GB",
@@ -39,12 +47,21 @@ export const metadata: Metadata = {
     title: "Kitchen Wrap Sheffield | Transform Your Kitchen Without the Rebuild",
     description:
       "Vinyl kitchen wrapping in Sheffield. Transform your kitchen in 2–3 days at a fraction of replacement cost. Free no-obligation quotes.",
+    images: [
+      {
+        url: "/android-chrome-512x512.png",
+        width: 512,
+        height: 512,
+        alt: "Kitchen Wrap Sheffield",
+      },
+    ],
   },
   twitter: {
-    card: "summary_large_image",
+    card: "summary",
     title: "Kitchen Wrap Sheffield | Transform Your Kitchen Without the Rebuild",
     description:
       "Vinyl kitchen wrapping in Sheffield. Transform your kitchen in 2–3 days at a fraction of replacement cost.",
+    images: ["/android-chrome-512x512.png"],
   },
   alternates: {
     canonical: SITE.url,
