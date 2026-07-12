@@ -35,6 +35,7 @@ export const AREAS = [
   },
   {
     name: "Hillsborough",
+    href: "/areas-covered/hillsborough",
     blurb:
       "Near Hillsborough Park and the stadium side of town — a popular spot for door and worktop refreshes.",
   },
