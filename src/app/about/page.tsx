@@ -1,16 +1,16 @@
-import type { Metadata } from "next";
 import Image from "next/image";
 
 import { CtaButtons } from "@/components/CtaButtons";
 import { SchemaOrg, breadcrumbSchema } from "@/components/SchemaOrg";
 import { PROCESS_IMAGES } from "@/lib/images";
+import { pageMeta } from "@/lib/seo";
 
-export const metadata: Metadata = {
+export const metadata = pageMeta({
   title: "About Kitchen Wrap Sheffield | Local Kitchen Wrapping Specialists",
   description:
     "We're a Sheffield-based kitchen wrapping specialist. Straight-talking quotes, honest advice, and jobs done in 2–3 days. Find out how we work.",
-  alternates: { canonical: "/about" },
-};
+  path: "/about",
+});
 
 const steps = [
   "Free survey and quote — usually within 24 hours",

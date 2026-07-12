@@ -1,16 +1,16 @@
-import type { Metadata } from "next";
 import Link from "next/link";
 
 import { CtaButtons } from "@/components/CtaButtons";
 import { SchemaOrg, breadcrumbSchema } from "@/components/SchemaOrg";
+import { pageMeta } from "@/lib/seo";
 import { AREAS } from "@/lib/site";
 
-export const metadata: Metadata = {
+export const metadata = pageMeta({
   title: "Kitchen Wrapping Sheffield & South Yorkshire | Areas We Cover",
   description:
     "Kitchen Wrap Sheffield covers the whole city and surrounding area — Ecclesfield, Hillsborough, Fulwood, Dore, Crookes, Chapeltown, Mosborough and more.",
-  alternates: { canonical: "/areas-covered" },
-};
+  path: "/areas-covered",
+});
 
 export default function AreasCoveredPage() {
   return (

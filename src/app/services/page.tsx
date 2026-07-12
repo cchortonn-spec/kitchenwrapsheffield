@@ -1,4 +1,3 @@
-import type { Metadata } from "next";
 import Image from "next/image";
 
 import { CtaButtons } from "@/components/CtaButtons";
@@ -8,14 +7,15 @@ import {
   serviceSchema,
 } from "@/components/SchemaOrg";
 import { FINISH_IMAGES, SERVICE_IMAGES } from "@/lib/images";
+import { pageMeta } from "@/lib/seo";
 import { FINISHES, SERVICES } from "@/lib/site";
 
-export const metadata: Metadata = {
+export const metadata = pageMeta({
   title: "Kitchen Wrapping Services Sheffield | Doors, Worktops & Full Wraps",
   description:
     "Professional kitchen wrapping in Sheffield. Door wrapping, worktop wrapping, and full kitchen wraps. Matt, gloss, wood effect & stone effect finishes.",
-  alternates: { canonical: "/services" },
-};
+  path: "/services",
+});
 
 const serviceMedia = [
   SERVICE_IMAGES.doors,

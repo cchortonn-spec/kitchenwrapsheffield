@@ -42,11 +42,7 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_GB",
-    url: SITE.url,
     siteName: SITE.name,
-    title: "Kitchen Wrap Sheffield | Transform Your Kitchen Without the Rebuild",
-    description:
-      "Vinyl kitchen wrapping in Sheffield. Transform your kitchen in 2–3 days at a fraction of replacement cost. Free no-obligation quotes.",
     images: [
       {
         url: "/android-chrome-512x512.png",
@@ -58,13 +54,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary",
-    title: "Kitchen Wrap Sheffield | Transform Your Kitchen Without the Rebuild",
-    description:
-      "Vinyl kitchen wrapping in Sheffield. Transform your kitchen in 2–3 days at a fraction of replacement cost.",
     images: ["/android-chrome-512x512.png"],
-  },
-  alternates: {
-    canonical: SITE.url,
   },
 };
 

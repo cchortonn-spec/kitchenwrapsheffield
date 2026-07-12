@@ -1,17 +1,17 @@
-import type { Metadata } from "next";
 import { Clock, Mail, MessageCircle, Phone } from "lucide-react";
 
 import { ContactForm } from "@/components/ContactForm";
 import { SchemaOrg, breadcrumbSchema } from "@/components/SchemaOrg";
 import { TrackedLink } from "@/components/TrackedLink";
+import { pageMeta } from "@/lib/seo";
 import { SITE } from "@/lib/site";
 
-export const metadata: Metadata = {
+export const metadata = pageMeta({
   title: "Get a Free Kitchen Wrap Quote in Sheffield",
   description:
     "Get a free, no-obligation kitchen wrap quote in Sheffield. Fill in the form or call 07848 428975. Most quotes back within 24 hours.",
-  alternates: { canonical: "/contact" },
-};
+  path: "/contact",
+});
 
 export default function ContactPage() {
   return (

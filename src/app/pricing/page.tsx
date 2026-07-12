@@ -1,19 +1,18 @@
-import type { Metadata } from "next";
-
 import { CtaButtons } from "@/components/CtaButtons";
 import {
   SchemaOrg,
   breadcrumbSchema,
   faqSchema,
 } from "@/components/SchemaOrg";
+import { pageMeta } from "@/lib/seo";
 import { PRICING_FAQS } from "@/lib/site";
 
-export const metadata: Metadata = {
+export const metadata = pageMeta({
   title: "Kitchen Wrap Cost Sheffield | 2026 Pricing Guide",
   description:
     "How much does kitchen wrapping cost in Sheffield? See our guide to door wrapping, worktop wrapping, and full kitchen wrap prices. Free quotes available.",
-  alternates: { canonical: "/pricing" },
-};
+  path: "/pricing",
+});
 
 const pricingRows = [
   {

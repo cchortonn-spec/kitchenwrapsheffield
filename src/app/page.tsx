@@ -1,4 +1,3 @@
-import type { Metadata } from "next";
 import Image from "next/image";
 import Link from "next/link";
 
@@ -13,14 +12,15 @@ import {
   GALLERY_IMAGES,
   HERO_IMAGE,
 } from "@/lib/images";
+import { pageMeta } from "@/lib/seo";
 import { AREAS, HOME_FAQS, SERVICES, SITE } from "@/lib/site";
 
-export const metadata: Metadata = {
+export const metadata = pageMeta({
   title: "Kitchen Wrap Sheffield | Transform Your Kitchen Without the Rebuild",
   description:
     "Vinyl kitchen wrapping in Sheffield. Transform your kitchen in 2–3 days at a fraction of replacement cost. Free no-obligation quotes. Call 07848 428975.",
-  alternates: { canonical: "/" },
-};
+  path: "/",
+});
 
 const whyWrap = [
   {
@@ -328,7 +328,7 @@ export default function HomePage() {
             Straightforward from the start
           </h2>
           <p className="mx-auto mt-5 max-w-xl text-base leading-relaxed text-ink/65">
-            Full kitchen wraps typically start from around £999 depending on
+            Full kitchen wraps typically start from around £1,250 depending on
             size and finish.
           </p>
           <Link
