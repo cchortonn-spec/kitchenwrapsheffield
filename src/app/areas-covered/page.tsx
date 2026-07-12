@@ -47,10 +47,26 @@ export default function AreasCoveredPage() {
                 key={area.name}
                 className="rounded-3xl border border-ink/8 bg-linen/60 px-6 py-7"
               >
-                <h2 className="font-heading text-2xl font-medium">{area.name}</h2>
+                <h2 className="font-heading text-2xl font-medium">
+                  {"href" in area ? (
+                    <Link href={area.href} className="hover:text-moss">
+                      {area.name}
+                    </Link>
+                  ) : (
+                    area.name
+                  )}
+                </h2>
                 <p className="mt-3 text-sm leading-relaxed text-ink/60">
                   {area.blurb}
                 </p>
+                {"href" in area ? (
+                  <Link
+                    href={area.href}
+                    className="mt-5 inline-flex text-sm font-medium text-moss link-underline"
+                  >
+                    View {area.name} page
+                  </Link>
+                ) : null}
               </article>
             ))}
           </div>
