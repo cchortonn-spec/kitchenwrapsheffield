@@ -42,17 +42,32 @@ export default function AreasCoveredPage() {
       <section className="section-padding pt-0 sm:pt-0">
         <div className="container-site">
           <div className="grid gap-4 sm:grid-cols-2">
-            {AREAS.map((area) => (
-              <article
-                key={area.name}
-                className="rounded-3xl border border-ink/8 bg-linen/60 px-6 py-7"
-              >
-                <h2 className="font-heading text-2xl font-medium">{area.name}</h2>
-                <p className="mt-3 text-sm leading-relaxed text-ink/60">
-                  {area.blurb}
-                </p>
-              </article>
-            ))}
+            {AREAS.map((area) => {
+              const href =
+                area.name === "Ecclesfield" ? "/areas-covered/ecclesfield" : null;
+
+              const card = (
+                <article className="h-full rounded-3xl border border-ink/8 bg-linen/60 px-6 py-7 transition hover:border-moss/25 hover:bg-linen">
+                  <h2 className="font-heading text-2xl font-medium">{area.name}</h2>
+                  <p className="mt-3 text-sm leading-relaxed text-ink/60">
+                    {area.blurb}
+                  </p>
+                  {href ? (
+                    <p className="mt-5 text-sm font-medium text-moss">
+                      Read the Ecclesfield guide →
+                    </p>
+                  ) : null}
+                </article>
+              );
+
+              return href ? (
+                <Link key={area.name} href={href} className="block">
+                  {card}
+                </Link>
+              ) : (
+                <div key={area.name}>{card}</div>
+              );
+            })}
           </div>
 
           <div className="mt-14 soft-panel p-8 sm:p-10">
