@@ -14,6 +14,7 @@ This file tracks pages present in the current app routes. It was recreated from 
 ## SEO expansion pages
 
 - `/areas-covered/ecclesfield` — Kitchen Wrapping in Ecclesfield — built 2026-07-13 — self-score 90/100
+- `/areas-covered/fulwood` — Kitchen Wrapping in Fulwood — built 2026-07-14 — self-score 91/100
 
 ## Active-but-not-live notes
 

@@ -6,7 +6,7 @@ Ranked SEO expansion targets. Take the highest-priority item that is not already
 
 - [ ] Hillsborough — active PRs #1 and #2, do not duplicate in a new branch unless those PRs are closed without merge
 - [x] Ecclesfield — built 2026-07-13 at `/areas-covered/ecclesfield`
-- [ ] Fulwood
+- [x] Fulwood — built 2026-07-14 at `/areas-covered/fulwood`
 - [ ] Dore
 - [ ] Crookes
 - [ ] Chapeltown
