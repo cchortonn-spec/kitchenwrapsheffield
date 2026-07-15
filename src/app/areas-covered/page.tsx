@@ -12,6 +12,11 @@ export const metadata = pageMeta({
   path: "/areas-covered",
 });
 
+const areaLinks: Partial<Record<string, string>> = {
+  Ecclesfield: "/areas-covered/ecclesfield",
+  Fulwood: "/areas-covered/fulwood",
+};
+
 export default function AreasCoveredPage() {
   return (
     <>
@@ -43,8 +48,7 @@ export default function AreasCoveredPage() {
         <div className="container-site">
           <div className="grid gap-4 sm:grid-cols-2">
             {AREAS.map((area) => {
-              const href =
-                area.name === "Ecclesfield" ? "/areas-covered/ecclesfield" : null;
+              const href = areaLinks[area.name] ?? null;
 
               const card = (
                 <article className="h-full rounded-3xl border border-ink/8 bg-linen/60 px-6 py-7 transition hover:border-moss/25 hover:bg-linen">
@@ -54,7 +58,7 @@ export default function AreasCoveredPage() {
                   </p>
                   {href ? (
                     <p className="mt-5 text-sm font-medium text-moss">
-                      Read the Ecclesfield guide →
+                      Read the {area.name} guide →
                     </p>
                   ) : null}
                 </article>
