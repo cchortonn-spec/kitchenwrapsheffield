@@ -1,5 +1,11 @@
 # Daily SEO log
 
+## 2026-07-12
+
+Built `/areas-covered/hillsborough` because Hillsborough was the highest-priority unbuilt suburb target.
+Focused the page on S6 terrace/off-shot kitchens, Hillsborough Park, Middlewood Road, Penistone Road, and low-disruption wrapping.
+Self-score: 91/100.
+
 ## 2026-07-13
 
 Built `/areas-covered/ecclesfield` because Hillsborough already has active PRs and Ecclesfield is the next clear suburb target.
