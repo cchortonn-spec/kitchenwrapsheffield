@@ -17,3 +17,9 @@ Self-score: 90/100.
 Built `/areas-covered/fulwood` because Hillsborough is still marked as active-PR work and Fulwood was the next unbuilt suburb target.
 The page uses real S10/Fulwood references including Fulwood Road, Christ Church, the Old Chapel, Forge Dam, Whiteley Woods and Porter Valley.
 Self-score: 91/100.
+
+## 2026-07-16
+
+Built `/areas-covered/crookes` because Dore is already covered by active PR #5 and Crookes was the next clear unbuilt suburb target.
+The page focuses on S10 Crookes homes around Crookes Road, Commonside, Crookesmoor, Bole Hills, Nairn Street, St Thomas' Church, Mulehouse Road and the Walkley/Broomhill/Crosspool edges.
+Self-score: 92/100.
