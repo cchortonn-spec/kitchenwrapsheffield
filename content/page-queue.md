@@ -7,9 +7,9 @@ Ranked SEO expansion targets. Take the highest-priority item that is not already
 - [x] Hillsborough — built 2026-07-12 at `/areas-covered/hillsborough`
 - [x] Ecclesfield — built 2026-07-13 at `/areas-covered/ecclesfield`
 - [x] Fulwood — built 2026-07-14 at `/areas-covered/fulwood`
-- [ ] Dore
-- [ ] Crookes
-- [ ] Chapeltown
+- [ ] Dore — active PR #5 open
+- [ ] Crookes — active PR #6 open
+- [x] Chapeltown — built 2026-07-17 at `/areas-covered/chapeltown`
 - [ ] Mosborough
 - [ ] Handsworth
 - [ ] Stocksbridge
