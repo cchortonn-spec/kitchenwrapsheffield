@@ -16,3 +16,4 @@ This file tracks pages present in the current app routes.
 - `/areas-covered/hillsborough` — Kitchen Wrapping Hillsborough — built 2026-07-12 — self-score 91/100
 - `/areas-covered/ecclesfield` — Kitchen Wrapping in Ecclesfield — built 2026-07-13 — self-score 90/100
 - `/areas-covered/fulwood` — Kitchen Wrapping in Fulwood — built 2026-07-14 — self-score 91/100
+- `/areas-covered/mosborough` — Kitchen Wrapping in Mosborough — built 2026-07-18 — self-score 92/100

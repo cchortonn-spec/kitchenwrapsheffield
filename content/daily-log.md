@@ -17,3 +17,9 @@ Self-score: 90/100.
 Built `/areas-covered/fulwood` because Hillsborough is still marked as active-PR work and Fulwood was the next unbuilt suburb target.
 The page uses real S10/Fulwood references including Fulwood Road, Christ Church, the Old Chapel, Forge Dam, Whiteley Woods and Porter Valley.
 Self-score: 91/100.
+
+## 2026-07-18
+
+Built `/areas-covered/mosborough` because Dore, Crookes and Chapeltown are already covered by active PRs, making Mosborough the next clear unbuilt suburb target.
+The page focuses on S20 homes around Mosborough village, High Street, Mosborough Hall, St Mark's, Owlthorpe, Westfield, Waterthorpe, Crystal Peaks, Halfway, Holbrook and Moss Way.
+Self-score: 92/100.
