@@ -23,3 +23,9 @@ Self-score: 91/100.
 Built `/areas-covered/dore` because Dore was the highest-priority unbuilt suburb target after Fulwood.
 The page focuses on S17 homes around Dore village, Christ Church, Dore Old School on Savage Lane, Dore Moor, Dore and Totley station, Totley and Bradway.
 Self-score: 92/100.
+
+## 2026-07-16
+
+Built `/areas-covered/crookes` because Dore is already covered by active PR #5 and Crookes was the next clear unbuilt suburb target.
+The page focuses on S10 Crookes homes around Crookes Road, Commonside, Crookesmoor, Bole Hills, Nairn Street, St Thomas' Church, Mulehouse Road and the Walkley/Broomhill/Crosspool edges.
+Self-score: 92/100.
