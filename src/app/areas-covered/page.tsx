@@ -18,6 +18,7 @@ const areaLinks: Partial<Record<string, string>> = {
   Fulwood: "/areas-covered/fulwood",
   Dore: "/areas-covered/dore",
   Crookes: "/areas-covered/crookes",
+  Chapeltown: "/areas-covered/chapeltown",
 };
 
 export default function AreasCoveredPage() {

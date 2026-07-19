@@ -18,3 +18,4 @@ This file tracks pages present in the current app routes.
 - `/areas-covered/fulwood` — Kitchen Wrapping in Fulwood — built 2026-07-14 — self-score 91/100
 - `/areas-covered/dore` — Kitchen Wrapping in Dore — built 2026-07-15 — self-score 92/100
 - `/areas-covered/crookes` — Kitchen Wrapping in Crookes — built 2026-07-16 — self-score 92/100
+- `/areas-covered/chapeltown` — Kitchen Wrapping in Chapeltown — built 2026-07-17 — self-score 92/100

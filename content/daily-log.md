@@ -29,3 +29,9 @@ Self-score: 92/100.
 Built `/areas-covered/crookes` because Dore is already covered by active PR #5 and Crookes was the next clear unbuilt suburb target.
 The page focuses on S10 Crookes homes around Crookes Road, Commonside, Crookesmoor, Bole Hills, Nairn Street, St Thomas' Church, Mulehouse Road and the Walkley/Broomhill/Crosspool edges.
 Self-score: 92/100.
+
+## 2026-07-17
+
+Built `/areas-covered/chapeltown` because Dore and Crookes already have open PRs and Chapeltown was the next clear unbuilt suburb target.
+The page focuses on S35 homes around Chapeltown Park, Chapeltown railway station, Lane End, Burncross Road, High Green, Burncross, Thorncliffe and the A6135/A629 commuter routes.
+Self-score: 92/100.
