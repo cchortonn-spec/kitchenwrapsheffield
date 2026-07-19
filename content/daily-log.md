@@ -17,3 +17,9 @@ Self-score: 90/100.
 Built `/areas-covered/fulwood` because Hillsborough is still marked as active-PR work and Fulwood was the next unbuilt suburb target.
 The page uses real S10/Fulwood references including Fulwood Road, Christ Church, the Old Chapel, Forge Dam, Whiteley Woods and Porter Valley.
 Self-score: 91/100.
+
+## 2026-07-15
+
+Built `/areas-covered/dore` because Dore was the highest-priority unbuilt suburb target after Fulwood.
+The page focuses on S17 homes around Dore village, Christ Church, Dore Old School on Savage Lane, Dore Moor, Dore and Totley station, Totley and Bradway.
+Self-score: 92/100.
