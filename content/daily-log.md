@@ -18,6 +18,24 @@ Built `/areas-covered/fulwood` because Hillsborough is still marked as active-PR
 The page uses real S10/Fulwood references including Fulwood Road, Christ Church, the Old Chapel, Forge Dam, Whiteley Woods and Porter Valley.
 Self-score: 91/100.
 
+## 2026-07-15
+
+Built `/areas-covered/dore` because Dore was the highest-priority unbuilt suburb target after Fulwood.
+The page focuses on S17 homes around Dore village, Christ Church, Dore Old School on Savage Lane, Dore Moor, Dore and Totley station, Totley and Bradway.
+Self-score: 92/100.
+
+## 2026-07-16
+
+Built `/areas-covered/crookes` because Dore is already covered by active PR #5 and Crookes was the next clear unbuilt suburb target.
+The page focuses on S10 Crookes homes around Crookes Road, Commonside, Crookesmoor, Bole Hills, Nairn Street, St Thomas' Church, Mulehouse Road and the Walkley/Broomhill/Crosspool edges.
+Self-score: 92/100.
+
+## 2026-07-17
+
+Built `/areas-covered/chapeltown` because Dore and Crookes already have open PRs and Chapeltown was the next clear unbuilt suburb target.
+The page focuses on S35 homes around Chapeltown Park, Chapeltown railway station, Lane End, Burncross Road, High Green, Burncross, Thorncliffe and the A6135/A629 commuter routes.
+Self-score: 92/100.
+
 ## 2026-07-18
 
 Built `/areas-covered/mosborough` because Dore, Crookes and Chapeltown are already covered by active PRs, making Mosborough the next clear unbuilt suburb target.
