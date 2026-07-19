@@ -35,3 +35,9 @@ Self-score: 92/100.
 Built `/areas-covered/chapeltown` because Dore and Crookes already have open PRs and Chapeltown was the next clear unbuilt suburb target.
 The page focuses on S35 homes around Chapeltown Park, Chapeltown railway station, Lane End, Burncross Road, High Green, Burncross, Thorncliffe and the A6135/A629 commuter routes.
 Self-score: 92/100.
+
+## 2026-07-18
+
+Built `/areas-covered/mosborough` because Dore, Crookes and Chapeltown are already covered by active PRs, making Mosborough the next clear unbuilt suburb target.
+The page focuses on S20 homes around Mosborough village, High Street, Mosborough Hall, St Mark's, Owlthorpe, Westfield, Waterthorpe, Crystal Peaks, Halfway, Holbrook and Moss Way.
+Self-score: 92/100.
