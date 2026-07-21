@@ -41,3 +41,9 @@ Self-score: 92/100.
 Built `/areas-covered/mosborough` because Dore, Crookes and Chapeltown are already covered by active PRs, making Mosborough the next clear unbuilt suburb target.
 The page focuses on S20 homes around Mosborough village, High Street, Mosborough Hall, St Mark's, Owlthorpe, Westfield, Waterthorpe, Crystal Peaks, Halfway, Holbrook and Moss Way.
 Self-score: 92/100.
+
+## 2026-07-21
+
+Built `/areas-covered/woodseats` because Handsworth and Stocksbridge are already covered by active PRs, making Woodseats the next clear unbuilt suburb target.
+The page focuses on S8 homes around Chesterfield Road, Abbey Lane, Woodseats Road, Derbyshire Lane, Graves Park, Norton, Meadowhead, Heeley and the Abbeydale Road/Millhouses edge.
+Self-score: 93/100.
