@@ -53,3 +53,9 @@ Self-score: 93/100.
 Built `/areas-covered/stocksbridge` because Handsworth is already covered by open PR #9 and Stocksbridge was the next clear unbuilt suburb target.
 The page focuses on S36 homes around Fox Valley, Deepcar, Bolsterstone, Underbank Reservoir, Midhopestones, the Little Don valley, Wharncliffe Side, Oughtibridge and the A616/M1/Pennine routes.
 Self-score: 93/100.
+
+## 2026-07-21
+
+Built `/areas-covered/woodseats` because Handsworth and Stocksbridge are already covered by active PRs, making Woodseats the next clear unbuilt suburb target.
+The page focuses on S8 homes around Chesterfield Road, Abbey Lane, Woodseats Road, Derbyshire Lane, Graves Park, Norton, Meadowhead, Heeley and the Abbeydale Road/Millhouses edge.
+Self-score: 93/100.
