@@ -47,3 +47,9 @@ Self-score: 92/100.
 Built `/areas-covered/handsworth` because Handsworth was the highest-priority unbuilt suburb target after Mosborough.
 The page focuses on S13 homes around Handsworth Road, St Mary's Church, Richmond Park, Retford Road, Darnall, Woodhouse, the Sheffield Parkway edge and Parkway Man near Bowden Housteads Wood.
 Self-score: 93/100.
+
+## 2026-07-20
+
+Built `/areas-covered/stocksbridge` because Handsworth is already covered by open PR #9 and Stocksbridge was the next clear unbuilt suburb target.
+The page focuses on S36 homes around Fox Valley, Deepcar, Bolsterstone, Underbank Reservoir, Midhopestones, the Little Don valley, Wharncliffe Side, Oughtibridge and the A616/M1/Pennine routes.
+Self-score: 93/100.
