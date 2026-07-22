@@ -11,7 +11,7 @@ Ranked SEO expansion targets. Take the highest-priority item that is not already
 - [x] Crookes — built 2026-07-16 at `/areas-covered/crookes`
 - [x] Chapeltown — built 2026-07-17 at `/areas-covered/chapeltown`
 - [x] Mosborough — built 2026-07-18 at `/areas-covered/mosborough`
-- [ ] Handsworth
+- [x] Handsworth — built 2026-07-19 at `/areas-covered/handsworth`
 - [ ] Stocksbridge
 - [ ] Woodseats
 - [ ] Nether Edge
