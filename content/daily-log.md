@@ -42,6 +42,12 @@ Built `/areas-covered/mosborough` because Dore, Crookes and Chapeltown are alrea
 The page focuses on S20 homes around Mosborough village, High Street, Mosborough Hall, St Mark's, Owlthorpe, Westfield, Waterthorpe, Crystal Peaks, Halfway, Holbrook and Moss Way.
 Self-score: 92/100.
 
+## 2026-07-19
+
+Built `/areas-covered/handsworth` because Handsworth was the highest-priority unbuilt suburb target after Mosborough.
+The page focuses on S13 homes around Handsworth Road, St Mary's Church, Richmond Park, Retford Road, Darnall, Woodhouse, the Sheffield Parkway edge and Parkway Man near Bowden Housteads Wood.
+Self-score: 93/100.
+
 ## 2026-07-20
 
 Built `/areas-covered/stocksbridge` because Handsworth is already covered by open PR #9 and Stocksbridge was the next clear unbuilt suburb target.
