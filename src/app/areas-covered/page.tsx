@@ -23,6 +23,7 @@ const areaLinks: Partial<Record<string, string>> = {
   Handsworth: "/areas-covered/handsworth",
   Stocksbridge: "/areas-covered/stocksbridge",
   Woodseats: "/areas-covered/woodseats",
+  "Nether Edge": "/areas-covered/nether-edge",
 };
 
 export default function AreasCoveredPage() {
