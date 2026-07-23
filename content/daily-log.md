@@ -59,3 +59,9 @@ Self-score: 93/100.
 Built `/areas-covered/woodseats` because Handsworth and Stocksbridge are already covered by active PRs, making Woodseats the next clear unbuilt suburb target.
 The page focuses on S8 homes around Chesterfield Road, Abbey Lane, Woodseats Road, Derbyshire Lane, Graves Park, Norton, Meadowhead, Heeley and the Abbeydale Road/Millhouses edge.
 Self-score: 93/100.
+
+## 2026-07-23
+
+Built `/areas-covered/nether-edge` because Nether Edge was the highest-priority unbuilt suburb target after Woodseats.
+The page focuses on S7 homes around Nether Edge Road, Machon Bank Road, Kenwood, Chelsea Park, Psalter Lane, Brincliffe Edge, Sharrow, Highfield and Abbeydale Road, with extra detail on period-home finish choices and access.
+Self-score: 93/100.
