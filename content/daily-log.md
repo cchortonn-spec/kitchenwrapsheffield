@@ -59,3 +59,9 @@ Self-score: 93/100.
 Built `/areas-covered/woodseats` because Handsworth and Stocksbridge are already covered by active PRs, making Woodseats the next clear unbuilt suburb target.
 The page focuses on S8 homes around Chesterfield Road, Abbey Lane, Woodseats Road, Derbyshire Lane, Graves Park, Norton, Meadowhead, Heeley and the Abbeydale Road/Millhouses edge.
 Self-score: 93/100.
+
+## 2026-07-24
+
+Built `/areas-covered/totley` because Nether Edge is already covered by open PR #12 and Totley was the next clear unbuilt suburb target.
+The page focuses on S17 homes around Baslow Road, Totley Rise, Totley Village, Totley Hall Lane, Hillfoot Road, All Saints Church, Totley Hall, Totley Brook, Old Hay Brook, Dore & Totley station and the Peak District edge.
+Self-score: 93/100.
