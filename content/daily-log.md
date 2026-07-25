@@ -62,6 +62,6 @@ Self-score: 93/100.
 
 ## 2026-07-25
 
-Built `/areas-covered/nether-edge` because Nether Edge was the highest-priority unbuilt suburb target on this branch and on `origin/main`.
-The page focuses on S7 homes around Nether Edge Road, Machon Bank Road, Kenwood, Chelsea Park, Psalter Lane, Brincliffe Edge, Sharrow and Abbeydale Road, with guidance for older/period kitchens and flat conversions.
+Built `/areas-covered/beauchief` because Nether Edge and Totley were already covered by active draft PRs (#12 and #13), making Beauchief the next clear unbuilt suburb target.
+The page focuses on S8 homes around Beauchief Abbey, Beauchief Hall, Abbey Lane, Abbeydale Road South, Greenhill, Meadowhead, Chancet Wood and Millhouses, with guidance for family homes, older surfaces and worktop wrapping.
 Self-score: 93/100.

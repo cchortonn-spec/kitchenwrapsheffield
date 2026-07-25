@@ -8,7 +8,7 @@ import { AREAS } from "@/lib/site";
 export const metadata = pageMeta({
   title: "Kitchen Wrapping Sheffield & South Yorkshire | Areas We Cover",
   description:
-    "Kitchen Wrap Sheffield covers the whole city and surrounding area — Ecclesfield, Hillsborough, Fulwood, Dore, Crookes, Woodseats, Nether Edge and more.",
+    "Kitchen Wrap Sheffield covers the whole city and surrounding area — Ecclesfield, Hillsborough, Fulwood, Dore, Crookes, Woodseats, Beauchief and more.",
   path: "/areas-covered",
 });
 
@@ -23,7 +23,7 @@ const areaLinks: Partial<Record<string, string>> = {
   Handsworth: "/areas-covered/handsworth",
   Stocksbridge: "/areas-covered/stocksbridge",
   Woodseats: "/areas-covered/woodseats",
-  "Nether Edge": "/areas-covered/nether-edge",
+  Beauchief: "/areas-covered/beauchief",
 };
 
 export default function AreasCoveredPage() {
