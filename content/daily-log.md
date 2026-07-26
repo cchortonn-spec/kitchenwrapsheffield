@@ -59,3 +59,9 @@ Self-score: 93/100.
 Built `/areas-covered/woodseats` because Handsworth and Stocksbridge are already covered by active PRs, making Woodseats the next clear unbuilt suburb target.
 The page focuses on S8 homes around Chesterfield Road, Abbey Lane, Woodseats Road, Derbyshire Lane, Graves Park, Norton, Meadowhead, Heeley and the Abbeydale Road/Millhouses edge.
 Self-score: 93/100.
+
+## 2026-07-26
+
+Built `/pricing/worktop-wrap-cost-sheffield` because Nether Edge, Totley and Beauchief are already covered by active PRs, and the broad "kitchen wrap cost Sheffield" target is already covered by `/pricing`.
+The page focuses on Sheffield worktop-only pricing, including guide bands, quote factors, local kitchen layouts around Hillsborough, Crookes, Woodseats, Fulwood and Kelham Island, and when replacement is better than wrapping.
+Self-score: 93/100.

@@ -1,3 +1,5 @@
+import Link from "next/link";
+
 import { CtaButtons } from "@/components/CtaButtons";
 import {
   SchemaOrg,
@@ -92,6 +94,23 @@ export default function PricingPage() {
                 ))}
               </tbody>
             </table>
+          </div>
+
+          <div className="mt-8 rounded-3xl bg-mist/55 p-6">
+            <h2 className="font-heading text-2xl font-medium">
+              Only pricing up the worktops?
+            </h2>
+            <p className="mt-3 text-sm leading-relaxed text-ink/65">
+              Read the{" "}
+              <Link
+                href="/pricing/worktop-wrap-cost-sheffield"
+                className="font-medium text-moss link-underline"
+              >
+                Sheffield worktop wrap cost guide
+              </Link>{" "}
+              for worktop-only price bands, local examples and what changes the
+              quote.
+            </p>
           </div>
 
           <h2 className="mt-16 font-heading text-4xl font-medium">

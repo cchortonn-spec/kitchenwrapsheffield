@@ -23,3 +23,7 @@ This file tracks pages present in the current app routes.
 - `/areas-covered/handsworth` — Kitchen Wrapping in Handsworth — built 2026-07-19 — self-score 93/100
 - `/areas-covered/stocksbridge` — Kitchen Wrapping in Stocksbridge — built 2026-07-20 — self-score 93/100
 - `/areas-covered/woodseats` — Kitchen Wrapping in Woodseats — built 2026-07-21 — self-score 93/100
+
+## Cost and pricing pages
+
+- `/pricing/worktop-wrap-cost-sheffield` — Worktop Wrap Cost Sheffield — built 2026-07-26 — self-score 93/100
