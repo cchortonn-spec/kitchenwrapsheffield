@@ -14,14 +14,14 @@ Ranked SEO expansion targets. Take the highest-priority item that is not already
 - [x] Handsworth — built 2026-07-19 at `/areas-covered/handsworth`
 - [x] Stocksbridge — built 2026-07-20 at `/areas-covered/stocksbridge`
 - [x] Woodseats — built 2026-07-21 at `/areas-covered/woodseats`
-- [ ] Nether Edge
-- [ ] Totley
-- [ ] Beauchief
+- [ ] Nether Edge — covered by open PR #12; do not duplicate while active
+- [ ] Totley — covered by open PR #13; do not duplicate while active
+- [ ] Beauchief — covered by open PR #14; do not duplicate while active
 
 ## Cost/pricing pages
 
-- [ ] Kitchen wrap cost Sheffield
-- [ ] Worktop wrap cost Sheffield
+- [x] Kitchen wrap cost Sheffield — covered by existing `/pricing`
+- [x] Worktop wrap cost Sheffield — built 2026-07-26 at `/pricing/worktop-wrap-cost-sheffield`
 
 ## Problem-led pages
 
