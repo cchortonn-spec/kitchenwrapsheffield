@@ -24,3 +24,4 @@ This file tracks pages present in the current app routes.
 - `/areas-covered/stocksbridge` — Kitchen Wrapping in Stocksbridge — built 2026-07-20 — self-score 93/100
 - `/areas-covered/woodseats` — Kitchen Wrapping in Woodseats — built 2026-07-21 — self-score 93/100
 - `/areas-covered/nether-edge` — Kitchen Wrapping in Nether Edge — built 2026-07-23 — self-score 93/100
+- `/areas-covered/totley` — Kitchen Wrapping in Totley — built 2026-07-24 — self-score 93/100
