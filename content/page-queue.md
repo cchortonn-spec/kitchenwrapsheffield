@@ -16,7 +16,7 @@ Ranked SEO expansion targets. Take the highest-priority item that is not already
 - [x] Woodseats — built 2026-07-21 at `/areas-covered/woodseats`
 - [x] Nether Edge — built 2026-07-23 at `/areas-covered/nether-edge`
 - [x] Totley — built 2026-07-24 at `/areas-covered/totley`
-- [ ] Beauchief
+- [x] Beauchief — built 2026-07-25 at `/areas-covered/beauchief`
 
 ## Cost/pricing pages
 
