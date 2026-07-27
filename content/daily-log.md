@@ -60,6 +60,18 @@ Built `/areas-covered/woodseats` because Handsworth and Stocksbridge are already
 The page focuses on S8 homes around Chesterfield Road, Abbey Lane, Woodseats Road, Derbyshire Lane, Graves Park, Norton, Meadowhead, Heeley and the Abbeydale Road/Millhouses edge.
 Self-score: 93/100.
 
+## 2026-07-23
+
+Built `/areas-covered/nether-edge` because Nether Edge was the highest-priority unbuilt suburb target after Woodseats.
+The page focuses on S7 homes around Nether Edge Road, Machon Bank Road, Kenwood, Chelsea Park, Psalter Lane, Brincliffe Edge, Sharrow, Highfield and Abbeydale Road, with extra detail on period-home finish choices and access.
+Self-score: 93/100.
+
+## 2026-07-24
+
+Built `/areas-covered/totley` because Nether Edge is already covered by open PR #12 and Totley was the next clear unbuilt suburb target.
+The page focuses on S17 homes around Baslow Road, Totley Rise, Totley Village, Totley Hall Lane, Hillfoot Road, All Saints Church, Totley Hall, Totley Brook, Old Hay Brook, Dore & Totley station and the Peak District edge.
+Self-score: 93/100.
+
 ## 2026-07-25
 
 Built `/areas-covered/beauchief` because Nether Edge and Totley were already covered by active draft PRs (#12 and #13), making Beauchief the next clear unbuilt suburb target.

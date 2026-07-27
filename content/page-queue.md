@@ -14,8 +14,8 @@ Ranked SEO expansion targets. Take the highest-priority item that is not already
 - [x] Handsworth — built 2026-07-19 at `/areas-covered/handsworth`
 - [x] Stocksbridge — built 2026-07-20 at `/areas-covered/stocksbridge`
 - [x] Woodseats — built 2026-07-21 at `/areas-covered/woodseats`
-- [ ] Nether Edge — covered by active PR #12
-- [ ] Totley — covered by active PR #13
+- [x] Nether Edge — built 2026-07-23 at `/areas-covered/nether-edge`
+- [x] Totley — built 2026-07-24 at `/areas-covered/totley`
 - [x] Beauchief — built 2026-07-25 at `/areas-covered/beauchief`
 
 ## Cost/pricing pages
