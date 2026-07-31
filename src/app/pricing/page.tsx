@@ -1,5 +1,3 @@
-import Link from "next/link";
-
 import { CtaButtons } from "@/components/CtaButtons";
 import {
   SchemaOrg,
@@ -94,24 +92,6 @@ export default function PricingPage() {
                 ))}
               </tbody>
             </table>
-          </div>
-
-          <div className="mt-8 rounded-3xl bg-mist/50 p-7">
-            <h2 className="font-heading text-3xl font-medium">
-              Need worktop-only pricing?
-            </h2>
-            <p className="mt-3 max-w-2xl text-sm leading-relaxed text-ink/65">
-              If your doors are fine but the worktops look dated, read the
-              dedicated{" "}
-              <Link
-                href="/pricing/worktop-wrap-cost-sheffield"
-                className="font-medium text-moss link-underline"
-              >
-                worktop wrap cost Sheffield guide
-              </Link>{" "}
-              for price ranges, quote factors and when replacement is the better
-              option.
-            </p>
           </div>
 
           <h2 className="mt-16 font-heading text-4xl font-medium">

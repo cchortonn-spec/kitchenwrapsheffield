@@ -80,6 +80,6 @@ Self-score: 93/100.
 
 ## 2026-07-31
 
-Built `/pricing/worktop-wrap-cost-sheffield` because the suburb priority list is complete and the broad "Kitchen wrap cost Sheffield" target is already covered by `/pricing`, so a duplicate page would be lower quality.
-The page focuses on Sheffield worktop-only quote ranges, sink and hob cut-outs, upstands, rental kitchens around Kelham Island/Crookesmoor/Hillsborough, family homes in Woodseats/Beauchief/Fulwood, and when replacement is a better option than wrapping.
-Self-score: 92/100.
+Built `/kitchen-looks-dated` because the suburb priority list is complete, the broad "Kitchen wrap cost Sheffield" target is already covered by `/pricing`, and the worktop cost page is already covered by active PR #15.
+The page focuses on diagnosing why a Sheffield kitchen feels dated, Crookes/Walkley/Hillsborough/Meersbrook terrace kitchens, rental and family-home scenarios, honest wrap-versus-replace suitability checks, finish choices and photo-first advice.
+Self-score: 93/100.
