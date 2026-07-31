@@ -77,3 +77,9 @@ Self-score: 93/100.
 Built `/areas-covered/beauchief` because Nether Edge and Totley were already covered by active draft PRs (#12 and #13), making Beauchief the next clear unbuilt suburb target.
 The page focuses on S8 homes around Beauchief Abbey, Beauchief Hall, Abbey Lane, Abbeydale Road South, Greenhill, Meadowhead, Chancet Wood and Millhouses, with guidance for family homes, older surfaces and worktop wrapping.
 Self-score: 93/100.
+
+## 2026-07-31
+
+Built `/kitchen-looks-dated` because the suburb priority list is complete, the broad "Kitchen wrap cost Sheffield" target is already covered by `/pricing`, and the worktop cost page is already covered by active PR #15.
+The page focuses on diagnosing why a Sheffield kitchen feels dated, Crookes/Walkley/Hillsborough/Meersbrook terrace kitchens, rental and family-home scenarios, honest wrap-versus-replace suitability checks, finish choices and photo-first advice.
+Self-score: 93/100.
