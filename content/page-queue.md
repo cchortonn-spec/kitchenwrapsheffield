@@ -20,8 +20,8 @@ Ranked SEO expansion targets. Take the highest-priority item that is not already
 
 ## Cost/pricing pages
 
-- [ ] Kitchen wrap cost Sheffield
-- [ ] Worktop wrap cost Sheffield
+- [x] Kitchen wrap cost Sheffield — covered by existing `/pricing` page; reviewed 2026-07-31 to avoid a duplicate cost page
+- [x] Worktop wrap cost Sheffield — built 2026-07-31 at `/pricing/worktop-wrap-cost-sheffield`
 
 ## Problem-led pages
 
