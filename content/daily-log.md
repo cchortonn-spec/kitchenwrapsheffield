@@ -77,3 +77,9 @@ Self-score: 93/100.
 Built `/areas-covered/beauchief` because Nether Edge and Totley were already covered by active draft PRs (#12 and #13), making Beauchief the next clear unbuilt suburb target.
 The page focuses on S8 homes around Beauchief Abbey, Beauchief Hall, Abbey Lane, Abbeydale Road South, Greenhill, Meadowhead, Chancet Wood and Millhouses, with guidance for family homes, older surfaces and worktop wrapping.
 Self-score: 93/100.
+
+## 2026-08-21
+
+Built `/rental-kitchen-makeover` because the broad kitchen wrap cost topic is already covered by `/pricing`, worktop wrap cost has active PR #15, and the next problem-led items have active PRs #16 and #17.
+The page focuses on Sheffield rental kitchens for landlords, agents and tenants with permission, including HMOs/student lets around Ecclesall Road, Crookes, Broomhill and Crookesmoor, city flats around Kelham Island and West Bar, Hillsborough tram-linked rentals, and family lets in Nether Edge and Woodseats.
+Self-score: 93/100.
