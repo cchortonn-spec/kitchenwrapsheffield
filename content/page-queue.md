@@ -20,18 +20,18 @@ Ranked SEO expansion targets. Take the highest-priority item that is not already
 
 ## Cost/pricing pages
 
-- [ ] Kitchen wrap cost Sheffield
-- [ ] Worktop wrap cost Sheffield
+- [x] Kitchen wrap cost Sheffield — covered by core `/pricing` page
+- [ ] Worktop wrap cost Sheffield — covered by active PR #15, do not duplicate
 
 ## Problem-led pages
 
-- [ ] Kitchen looks dated
-- [ ] Peeling cupboard doors
-- [ ] Rental kitchen makeover
+- [ ] Kitchen looks dated — covered by active PR #16, do not duplicate
+- [ ] Peeling cupboard doors — covered by active PR #17, do not duplicate
+- [ ] Rental kitchen makeover — covered by active PR #18, do not duplicate
 
 ## Comparison pages
 
-- [ ] Kitchen wrapping vs replacing
+- [x] Kitchen wrapping vs replacing — built 2026-08-28 at `/kitchen-wrapping-vs-replacing`
 - [ ] Kitchen wrapping vs painting
 - [ ] Kitchen wrapping vs spray painting
 
