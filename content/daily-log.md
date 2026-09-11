@@ -77,3 +77,9 @@ Self-score: 93/100.
 Built `/areas-covered/beauchief` because Nether Edge and Totley were already covered by active draft PRs (#12 and #13), making Beauchief the next clear unbuilt suburb target.
 The page focuses on S8 homes around Beauchief Abbey, Beauchief Hall, Abbey Lane, Abbeydale Road South, Greenhill, Meadowhead, Chancet Wood and Millhouses, with guidance for family homes, older surfaces and worktop wrapping.
 Self-score: 93/100.
+
+## 2026-09-11
+
+Built `/kitchen-wrapping-vs-spray-painting` because the broad kitchen wrap cost term is already covered by `/pricing`, worktop wrap cost and the problem-led/comparison pages above it are already covered by active draft PRs, and spray painting was the next clear unbuilt comparison target.
+The page compares wrapping with kitchen spray painting for Sheffield homeowners, including Crookes, Walkley and Hillsborough terraces, Nether Edge and Fulwood older kitchens, Kelham Island flats, Ecclesall Road rentals, and honest guidance on worktops, exact paint colours, disruption, surface condition, steam and heat.
+Self-score: 92/100.
