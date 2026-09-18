@@ -77,3 +77,9 @@ Self-score: 93/100.
 Built `/areas-covered/beauchief` because Nether Edge and Totley were already covered by active draft PRs (#12 and #13), making Beauchief the next clear unbuilt suburb target.
 The page focuses on S8 homes around Beauchief Abbey, Beauchief Hall, Abbey Lane, Abbeydale Road South, Greenhill, Meadowhead, Chancet Wood and Millhouses, with guidance for family homes, older surfaces and worktop wrapping.
 Self-score: 93/100.
+
+## 2026-09-18
+
+Built `/pricing/worktop-wrap-cost-sheffield` because the broad "Kitchen wrap cost Sheffield" target is already covered by `/pricing`, and the next clear non-duplicate cost target was worktop-only pricing.
+The page focuses on Sheffield worktop wrap cost bands, quote factors such as joins, sinks, hobs, upstands and access, plus local examples for Kelham Island, Hillsborough, Walkley, Crookes, Woodseats, Beauchief and Mosborough.
+Self-score: 93/100.

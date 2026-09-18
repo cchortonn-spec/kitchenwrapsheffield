@@ -26,3 +26,7 @@ This file tracks pages present in the current app routes.
 - `/areas-covered/nether-edge` — Kitchen Wrapping in Nether Edge — built 2026-07-23 — self-score 93/100
 - `/areas-covered/totley` — Kitchen Wrapping in Totley — built 2026-07-24 — self-score 93/100
 - `/areas-covered/beauchief` — Kitchen Wrapping in Beauchief — built 2026-07-25 — self-score 93/100
+
+## Cost/pricing SEO pages
+
+- `/pricing/worktop-wrap-cost-sheffield` — Worktop Wrap Cost in Sheffield — built 2026-09-18 — self-score 93/100
