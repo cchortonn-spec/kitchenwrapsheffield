@@ -30,3 +30,7 @@ This file tracks pages present in the current app routes.
 ## Cost/pricing SEO pages
 
 - `/pricing/worktop-wrap-cost-sheffield` — Worktop Wrap Cost in Sheffield — built 2026-09-18 — self-score 93/100
+
+## Problem-led SEO pages
+
+- `/kitchen-looks-dated` — Kitchen Looks Dated? Sheffield Wrap Advice — built 2026-09-25 — self-score 93/100

@@ -83,3 +83,9 @@ Self-score: 93/100.
 Built `/pricing/worktop-wrap-cost-sheffield` because the broad "Kitchen wrap cost Sheffield" target is already covered by `/pricing`, and the next clear non-duplicate cost target was worktop-only pricing.
 The page focuses on Sheffield worktop wrap cost bands, quote factors such as joins, sinks, hobs, upstands and access, plus local examples for Kelham Island, Hillsborough, Walkley, Crookes, Woodseats, Beauchief and Mosborough.
 Self-score: 93/100.
+
+## 2026-09-25
+
+Built `/kitchen-looks-dated` because all current suburb targets and the clear worktop cost target are already covered in this checkout, making "Kitchen looks dated" the highest-priority unbuilt problem-led page.
+The page helps Sheffield homeowners diagnose whether dated doors, worktops, finish choices, surface condition or layout are the real issue before choosing wrapping, replacement doors or a fuller refit. It includes local scenarios for Crookes, Walkley, Kelham Island, city-centre flats, Woodseats, Hillsborough and Mosborough, plus honest checks for when not to wrap.
+Self-score: 93/100.
