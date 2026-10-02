@@ -89,3 +89,9 @@ Self-score: 93/100.
 Built `/kitchen-looks-dated` because all current suburb targets and the clear worktop cost target are already covered in this checkout, making "Kitchen looks dated" the highest-priority unbuilt problem-led page.
 The page helps Sheffield homeowners diagnose whether dated doors, worktops, finish choices, surface condition or layout are the real issue before choosing wrapping, replacement doors or a fuller refit. It includes local scenarios for Crookes, Walkley, Kelham Island, city-centre flats, Woodseats, Hillsborough and Mosborough, plus honest checks for when not to wrap.
 Self-score: 93/100.
+
+## 2026-10-02
+
+Built `/peeling-cupboard-doors` because "Kitchen looks dated" is already live and peeling cupboard doors was the highest-priority unbuilt problem-led page in the queue.
+The page focuses on diagnosing why vinyl or foil cupboard doors peel, when rewrapping is sensible, when spraying or replacement is safer, and Sheffield-specific causes such as steam, condensation, older terraces, rentals and compact kitchens around Walkley, Crookes, Hillsborough, Upperthorpe, Nether Edge, Woodseats and Ecclesall Road.
+Self-score: 93/100.

@@ -34,3 +34,4 @@ This file tracks pages present in the current app routes.
 ## Problem-led SEO pages
 
 - `/kitchen-looks-dated` — Kitchen Looks Dated? Sheffield Wrap Advice — built 2026-09-25 — self-score 93/100
+- `/peeling-cupboard-doors` — Peeling Cupboard Doors Sheffield — built 2026-10-02 — self-score 93/100

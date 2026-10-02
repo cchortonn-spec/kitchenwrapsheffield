@@ -26,7 +26,7 @@ Ranked SEO expansion targets. Take the highest-priority item that is not already
 ## Problem-led pages
 
 - [x] Kitchen looks dated — built 2026-09-25 at `/kitchen-looks-dated`
-- [ ] Peeling cupboard doors
+- [x] Peeling cupboard doors — built 2026-10-02 at `/peeling-cupboard-doors`
 - [ ] Rental kitchen makeover
 
 ## Comparison pages
