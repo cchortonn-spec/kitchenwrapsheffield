@@ -54,6 +54,11 @@ export const AREAS = [
       "Terrace kitchens and family homes around Crookes and Walkley — wrapped in days, not weeks.",
   },
   {
+    name: "Walkley",
+    blurb:
+      "Steep S6 terraces and homes around South Road, Ruskin Park and Commonside — refreshed without the rip-out.",
+  },
+  {
     name: "Chapeltown",
     blurb:
       "North of the city towards Chapeltown and High Green — we cover this stretch of South Yorkshire regularly.",

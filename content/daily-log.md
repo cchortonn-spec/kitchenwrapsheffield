@@ -95,3 +95,9 @@ Self-score: 93/100.
 Built `/peeling-cupboard-doors` because "Kitchen looks dated" is already live and peeling cupboard doors was the highest-priority unbuilt problem-led page in the queue.
 The page focuses on diagnosing why vinyl or foil cupboard doors peel, when rewrapping is sensible, when spraying or replacement is safer, and Sheffield-specific causes such as steam, condensation, older terraces, rentals and compact kitchens around Walkley, Crookes, Hillsborough, Upperthorpe, Nether Edge, Woodseats and Ecclesall Road.
 Self-score: 93/100.
+
+## 2026-10-09
+
+Built `/areas-covered/walkley` because the next listed unbuilt problem and comparison targets are already covered by active PRs (#18-#21), and Walkley is a genuine Sheffield service-area suburb not yet live.
+The page focuses on S6 Walkley homes around South Road, Walkley Carnegie Library, Walkley Road, Ruskin Park, Daniel Hill, Commonside, Crookesmoor and the Rivelin Valley side streets, with guidance for terrace kitchens, rental refreshes, access, finish choice and survey-first suitability checks.
+Self-score: 94/100.

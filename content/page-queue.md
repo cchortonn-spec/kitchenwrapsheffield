@@ -17,6 +17,7 @@ Ranked SEO expansion targets. Take the highest-priority item that is not already
 - [x] Nether Edge — built 2026-07-23 at `/areas-covered/nether-edge`
 - [x] Totley — built 2026-07-24 at `/areas-covered/totley`
 - [x] Beauchief — built 2026-07-25 at `/areas-covered/beauchief`
+- [x] Walkley — built 2026-10-09 at `/areas-covered/walkley`
 
 ## Cost/pricing pages
 
@@ -27,13 +28,13 @@ Ranked SEO expansion targets. Take the highest-priority item that is not already
 
 - [x] Kitchen looks dated — built 2026-09-25 at `/kitchen-looks-dated`
 - [x] Peeling cupboard doors — built 2026-10-02 at `/peeling-cupboard-doors`
-- [ ] Rental kitchen makeover
+- [ ] Rental kitchen makeover — covered by active PR #18; skip until merged or closed
 
 ## Comparison pages
 
-- [ ] Kitchen wrapping vs replacing
-- [ ] Kitchen wrapping vs painting
-- [ ] Kitchen wrapping vs spray painting
+- [ ] Kitchen wrapping vs replacing — covered by active PR #19; skip until merged or closed
+- [ ] Kitchen wrapping vs painting — covered by active PR #20; skip until merged or closed
+- [ ] Kitchen wrapping vs spray painting — covered by active PR #21; skip until merged or closed
 
 ## Landmark pages
 
