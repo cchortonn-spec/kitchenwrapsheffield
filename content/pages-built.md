@@ -27,6 +27,7 @@ This file tracks pages present in the current app routes.
 - `/areas-covered/totley` — Kitchen Wrapping in Totley — built 2026-07-24 — self-score 93/100
 - `/areas-covered/beauchief` — Kitchen Wrapping in Beauchief — built 2026-07-25 — self-score 93/100
 - `/areas-covered/walkley` — Kitchen Wrapping in Walkley — built 2026-10-09 — self-score 94/100
+- `/areas-covered/broomhill` — Kitchen Wrapping in Broomhill — built 2026-10-16 — self-score 94/100
 
 ## Cost/pricing SEO pages
 

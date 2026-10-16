@@ -44,6 +44,11 @@ export const AREAS = [
       "West Sheffield homes around Fulwood Road and the Rivelin Valley — quiet installs, no skip on the drive.",
   },
   {
+    name: "Broomhill",
+    blurb:
+      "S10 period homes, flats and rentals around Glossop Road, the Botanical Gardens and the hospital edge.",
+  },
+  {
     name: "Dore",
     blurb:
       "Serving Dore and the south-west edge of the city, including homes looking over towards the Peak District.",

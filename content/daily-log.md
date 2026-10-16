@@ -101,3 +101,9 @@ Self-score: 93/100.
 Built `/areas-covered/walkley` because the next listed unbuilt problem and comparison targets are already covered by active PRs (#18-#21), and Walkley is a genuine Sheffield service-area suburb not yet live.
 The page focuses on S6 Walkley homes around South Road, Walkley Carnegie Library, Walkley Road, Ruskin Park, Daniel Hill, Commonside, Crookesmoor and the Rivelin Valley side streets, with guidance for terrace kitchens, rental refreshes, access, finish choice and survey-first suitability checks.
 Self-score: 94/100.
+
+## 2026-10-16
+
+Built `/areas-covered/broomhill` because the remaining named problem and comparison targets are still covered by open PRs (#18-#21), and Broomhill is a genuine Sheffield service-area suburb not yet live.
+The page focuses on S10 Broomhill homes, flats and rentals around the Conservation Area, Glossop Road, Newbould Lane, Taptonville Road, The Mount, King Edward VII School, Sheffield Botanical Gardens, hospitals and the university edge, with guidance on sympathetic finish choices, access, surface checks and rental refreshes.
+Self-score: 94/100.
