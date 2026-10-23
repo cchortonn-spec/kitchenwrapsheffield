@@ -49,6 +49,11 @@ export const AREAS = [
       "S10 period homes, flats and rentals around Glossop Road, the Botanical Gardens and the hospital edge.",
   },
   {
+    name: "Crosspool",
+    blurb:
+      "West Sheffield homes around Manchester Road, Sandygate Road and Lydgate Lane — practical refreshes without a full rip-out.",
+  },
+  {
     name: "Dore",
     blurb:
       "Serving Dore and the south-west edge of the city, including homes looking over towards the Peak District.",

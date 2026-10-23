@@ -107,3 +107,9 @@ Self-score: 94/100.
 Built `/areas-covered/broomhill` because the remaining named problem and comparison targets are still covered by open PRs (#18-#21), and Broomhill is a genuine Sheffield service-area suburb not yet live.
 The page focuses on S10 Broomhill homes, flats and rentals around the Conservation Area, Glossop Road, Newbould Lane, Taptonville Road, The Mount, King Edward VII School, Sheffield Botanical Gardens, hospitals and the university edge, with guidance on sympathetic finish choices, access, surface checks and rental refreshes.
 Self-score: 94/100.
+
+## 2026-10-23
+
+Built `/areas-covered/crosspool` because the remaining named problem and comparison targets are still covered by open PRs (#18-#21), and Crosspool is a genuine S10 service-area suburb not yet live.
+The page focuses on Crosspool homes around Manchester Road, Sandygate Road, Lydgate Lane, Crosspool Tavern, St Columba's Church, Tapton Hall, Tapton Hill transmitter, Darwin Lane and the Crookes/Fulwood edges, with guidance on access, finish choice, family kitchens, worktop suitability and survey-first checks.
+Self-score: 94/100.

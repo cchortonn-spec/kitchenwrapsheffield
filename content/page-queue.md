@@ -19,6 +19,7 @@ Ranked SEO expansion targets. Take the highest-priority item that is not already
 - [x] Beauchief — built 2026-07-25 at `/areas-covered/beauchief`
 - [x] Walkley — built 2026-10-09 at `/areas-covered/walkley`
 - [x] Broomhill — built 2026-10-16 at `/areas-covered/broomhill`
+- [x] Crosspool — built 2026-10-23 at `/areas-covered/crosspool`
 
 ## Cost/pricing pages
 
