@@ -54,6 +54,11 @@ export const AREAS = [
       "West Sheffield homes around Manchester Road, Sandygate Road and Lydgate Lane — practical refreshes without a full rip-out.",
   },
   {
+    name: "Ecclesall",
+    blurb:
+      "S11 homes, flats and rentals around Ecclesall Road South, Banner Cross, Hunters Bar and Ecclesall Woods.",
+  },
+  {
     name: "Dore",
     blurb:
       "Serving Dore and the south-west edge of the city, including homes looking over towards the Peak District.",

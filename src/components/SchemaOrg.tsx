@@ -46,6 +46,7 @@ export function localBusinessSchema(): JsonLd {
       "Fulwood",
       "Dore",
       "Crookes",
+      "Ecclesall",
       "Chapeltown",
       "Mosborough",
       "Handsworth",

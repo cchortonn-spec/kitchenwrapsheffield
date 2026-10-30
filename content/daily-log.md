@@ -113,3 +113,9 @@ Self-score: 94/100.
 Built `/areas-covered/crosspool` because the remaining named problem and comparison targets are still covered by open PRs (#18-#21), and Crosspool is a genuine S10 service-area suburb not yet live.
 The page focuses on Crosspool homes around Manchester Road, Sandygate Road, Lydgate Lane, Crosspool Tavern, St Columba's Church, Tapton Hall, Tapton Hill transmitter, Darwin Lane and the Crookes/Fulwood edges, with guidance on access, finish choice, family kitchens, worktop suitability and survey-first checks.
 Self-score: 94/100.
+
+## 2026-10-30
+
+Built `/areas-covered/ecclesall` because the remaining named problem and comparison targets are still covered by open draft PRs (#18-#21), and Ecclesall is a genuine S11 service-area suburb not yet live.
+The page focuses on Ecclesall homes, flats and rentals around Ecclesall Road South, Banner Cross, Hunters Bar, Sharrow Vale, Endcliffe Park, Greystones, Bents Green, High Storrs and Ecclesall Woods, with guidance on access, finish choice, rental refreshes, worktop suitability and survey-first checks.
+Self-score: 94/100.

@@ -29,6 +29,7 @@ This file tracks pages present in the current app routes.
 - `/areas-covered/walkley` — Kitchen Wrapping in Walkley — built 2026-10-09 — self-score 94/100
 - `/areas-covered/broomhill` — Kitchen Wrapping in Broomhill — built 2026-10-16 — self-score 94/100
 - `/areas-covered/crosspool` — Kitchen Wrapping in Crosspool — built 2026-10-23 — self-score 94/100
+- `/areas-covered/ecclesall` — Kitchen Wrapping in Ecclesall — built 2026-10-30 — self-score 94/100
 
 ## Cost/pricing SEO pages
 
