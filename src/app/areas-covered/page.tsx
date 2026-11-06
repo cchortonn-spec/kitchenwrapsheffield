@@ -19,6 +19,7 @@ const areaLinks: Partial<Record<string, string>> = {
   Broomhill: "/areas-covered/broomhill",
   Crosspool: "/areas-covered/crosspool",
   Ecclesall: "/areas-covered/ecclesall",
+  Millhouses: "/areas-covered/millhouses",
   Dore: "/areas-covered/dore",
   Crookes: "/areas-covered/crookes",
   Walkley: "/areas-covered/walkley",

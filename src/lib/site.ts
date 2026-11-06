@@ -59,6 +59,11 @@ export const AREAS = [
       "S11 homes, flats and rentals around Ecclesall Road South, Banner Cross, Hunters Bar and Ecclesall Woods.",
   },
   {
+    name: "Millhouses",
+    blurb:
+      "S7 homes around Millhouses Park, Abbeydale Road South and Archer Road — practical kitchen updates without a full rip-out.",
+  },
+  {
     name: "Dore",
     blurb:
       "Serving Dore and the south-west edge of the city, including homes looking over towards the Peak District.",

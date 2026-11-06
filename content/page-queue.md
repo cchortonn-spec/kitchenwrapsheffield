@@ -21,6 +21,7 @@ Ranked SEO expansion targets. Take the highest-priority item that is not already
 - [x] Broomhill — built 2026-10-16 at `/areas-covered/broomhill`
 - [x] Crosspool — built 2026-10-23 at `/areas-covered/crosspool`
 - [x] Ecclesall — built 2026-10-30 at `/areas-covered/ecclesall`
+- [x] Millhouses — built 2026-11-06 at `/areas-covered/millhouses`
 
 ## Cost/pricing pages
 

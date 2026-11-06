@@ -119,3 +119,9 @@ Self-score: 94/100.
 Built `/areas-covered/ecclesall` because the remaining named problem and comparison targets are still covered by open draft PRs (#18-#21), and Ecclesall is a genuine S11 service-area suburb not yet live.
 The page focuses on Ecclesall homes, flats and rentals around Ecclesall Road South, Banner Cross, Hunters Bar, Sharrow Vale, Endcliffe Park, Greystones, Bents Green, High Storrs and Ecclesall Woods, with guidance on access, finish choice, rental refreshes, worktop suitability and survey-first checks.
 Self-score: 94/100.
+
+## 2026-11-06
+
+Built `/areas-covered/millhouses` because the remaining named problem and comparison targets are still covered by open PRs (#18-#21), and Millhouses is a genuine S7 south Sheffield service-area suburb not yet live.
+The page focuses on Millhouses homes around Millhouses Park, Abbeydale Road South, Archer Road, the River Sheaf corridor, Carter Knowle, Beauchief, Woodseats and Ecclesall edges, with guidance on access, finish choice, family kitchens, worktop suitability and survey-first condition checks.
+Self-score: 94/100.

@@ -55,6 +55,7 @@ export function localBusinessSchema(): JsonLd {
       "Nether Edge",
       "Totley",
       "Beauchief",
+      "Millhouses",
     ],
     openingHoursSpecification: [
       {
