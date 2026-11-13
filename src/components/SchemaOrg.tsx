@@ -41,6 +41,7 @@ export function localBusinessSchema(): JsonLd {
     areaServed: [
       { "@type": "City", name: "Sheffield" },
       { "@type": "AdministrativeArea", name: "South Yorkshire" },
+      "Sheffield City Centre",
       "Ecclesfield",
       "Hillsborough",
       "Fulwood",

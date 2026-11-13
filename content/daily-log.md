@@ -125,3 +125,9 @@ Self-score: 94/100.
 Built `/areas-covered/millhouses` because the remaining named problem and comparison targets are still covered by open PRs (#18-#21), and Millhouses is a genuine S7 south Sheffield service-area suburb not yet live.
 The page focuses on Millhouses homes around Millhouses Park, Abbeydale Road South, Archer Road, the River Sheaf corridor, Carter Knowle, Beauchief, Woodseats and Ecclesall edges, with guidance on access, finish choice, family kitchens, worktop suitability and survey-first condition checks.
 Self-score: 94/100.
+
+## 2026-11-13
+
+Built `/areas-covered/sheffield-city-centre` because the remaining named problem and comparison targets are still covered by open PRs (#18-#21), and Sheffield City Centre was already listed as a service area without its own detail page.
+The page focuses on S1 and nearby S2 flats, rentals and apartments around Kelham Island, West Bar, St Vincent's Quarter, Castlegate, Devonshire Quarter, The Moor, Sheffield Station and the Cultural Industries Quarter, with practical guidance on managed-building access, lifts, parking, compact open-plan kitchens, worktop suitability and rental-safe finish choices.
+Self-score: 94/100.

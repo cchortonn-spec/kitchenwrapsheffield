@@ -13,6 +13,7 @@ export const metadata = pageMeta({
 });
 
 const areaLinks: Partial<Record<string, string>> = {
+  "Sheffield City Centre": "/areas-covered/sheffield-city-centre",
   Hillsborough: "/areas-covered/hillsborough",
   Ecclesfield: "/areas-covered/ecclesfield",
   Fulwood: "/areas-covered/fulwood",
