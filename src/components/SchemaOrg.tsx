@@ -55,6 +55,7 @@ export function localBusinessSchema(): JsonLd {
       "Woodseats",
       "Nether Edge",
       "Totley",
+      "Bradway",
       "Beauchief",
       "Millhouses",
     ],

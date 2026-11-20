@@ -31,6 +31,7 @@ const areaLinks: Partial<Record<string, string>> = {
   Woodseats: "/areas-covered/woodseats",
   "Nether Edge": "/areas-covered/nether-edge",
   Totley: "/areas-covered/totley",
+  Bradway: "/areas-covered/bradway",
   Beauchief: "/areas-covered/beauchief",
 };
 

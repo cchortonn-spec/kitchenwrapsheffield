@@ -114,6 +114,11 @@ export const AREAS = [
       "South-west towards Totley and Bradway — Peak fringe homes, same honest quoting process.",
   },
   {
+    name: "Bradway",
+    blurb:
+      "S17 homes around Bradway Road, Twentywell Lane and the Totley edge — calm, practical kitchen wraps without the full rip-out.",
+  },
+  {
     name: "Beauchief",
     blurb:
       "Beauchief and Abbeydale Road corridor — convenient for us and for homeowners who want a quick transformation.",

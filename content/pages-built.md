@@ -32,6 +32,7 @@ This file tracks pages present in the current app routes.
 - `/areas-covered/ecclesall` — Kitchen Wrapping in Ecclesall — built 2026-10-30 — self-score 94/100
 - `/areas-covered/millhouses` — Kitchen Wrapping in Millhouses — built 2026-11-06 — self-score 94/100
 - `/areas-covered/sheffield-city-centre` — Kitchen Wrapping in Sheffield City Centre — built 2026-11-13 — self-score 94/100
+- `/areas-covered/bradway` — Kitchen Wrapping in Bradway — built 2026-11-20 — self-score 94/100
 
 ## Cost/pricing SEO pages
 

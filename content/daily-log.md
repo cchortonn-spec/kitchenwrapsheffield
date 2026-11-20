@@ -131,3 +131,9 @@ Self-score: 94/100.
 Built `/areas-covered/sheffield-city-centre` because the remaining named problem and comparison targets are still covered by open PRs (#18-#21), and Sheffield City Centre was already listed as a service area without its own detail page.
 The page focuses on S1 and nearby S2 flats, rentals and apartments around Kelham Island, West Bar, St Vincent's Quarter, Castlegate, Devonshire Quarter, The Moor, Sheffield Station and the Cultural Industries Quarter, with practical guidance on managed-building access, lifts, parking, compact open-plan kitchens, worktop suitability and rental-safe finish choices.
 Self-score: 94/100.
+
+## 2026-11-20
+
+Built `/areas-covered/bradway` because the named problem and comparison targets remain covered by open PRs (#18-#21), the original listed suburb pages are already live, and Bradway is a genuine unbuilt S17 service-area suburb.
+The page focuses on Bradway homes around Bradway Road, Twentywell Lane, Twentywell Road, the village green, Lower Bradway, Dore & Totley Golf Club, Abbeydale Golf Club, Totley Brook and the Greenhill/Totley/Dore edges, with survey-first guidance on access, surface condition, finish choice and worktop suitability.
+Self-score: 94/100.

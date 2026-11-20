@@ -23,6 +23,7 @@ Ranked SEO expansion targets. Take the highest-priority item that is not already
 - [x] Ecclesall — built 2026-10-30 at `/areas-covered/ecclesall`
 - [x] Millhouses — built 2026-11-06 at `/areas-covered/millhouses`
 - [x] Sheffield City Centre — built 2026-11-13 at `/areas-covered/sheffield-city-centre`
+- [x] Bradway — built 2026-11-20 at `/areas-covered/bradway`
 
 ## Cost/pricing pages
 
