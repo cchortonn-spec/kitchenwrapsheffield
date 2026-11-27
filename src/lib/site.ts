@@ -119,6 +119,11 @@ export const AREAS = [
       "S17 homes around Bradway Road, Twentywell Lane and the Totley edge — calm, practical kitchen wraps without the full rip-out.",
   },
   {
+    name: "Greenhill",
+    blurb:
+      "S8 homes around Greenhill Main Road, School Lane, Bocking Lane and Meadowhead — careful surface checks before any wrap is recommended.",
+  },
+  {
     name: "Beauchief",
     blurb:
       "Beauchief and Abbeydale Road corridor — convenient for us and for homeowners who want a quick transformation.",

@@ -32,6 +32,7 @@ const areaLinks: Partial<Record<string, string>> = {
   "Nether Edge": "/areas-covered/nether-edge",
   Totley: "/areas-covered/totley",
   Bradway: "/areas-covered/bradway",
+  Greenhill: "/areas-covered/greenhill",
   Beauchief: "/areas-covered/beauchief",
 };
 

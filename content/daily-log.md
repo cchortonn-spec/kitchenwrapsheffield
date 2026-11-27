@@ -137,3 +137,9 @@ Self-score: 94/100.
 Built `/areas-covered/bradway` because the named problem and comparison targets remain covered by open PRs (#18-#21), the original listed suburb pages are already live, and Bradway is a genuine unbuilt S17 service-area suburb.
 The page focuses on Bradway homes around Bradway Road, Twentywell Lane, Twentywell Road, the village green, Lower Bradway, Dore & Totley Golf Club, Abbeydale Golf Club, Totley Brook and the Greenhill/Totley/Dore edges, with survey-first guidance on access, surface condition, finish choice and worktop suitability.
 Self-score: 94/100.
+
+## 2026-11-27
+
+Built `/areas-covered/greenhill` because the named problem and comparison targets remain covered by active PRs (#18-#21), the original listed suburb pages are already live, and Greenhill is a genuine unbuilt S8 service-area suburb with enough local specificity to avoid duplicating Beauchief or Woodseats.
+The page focuses on Greenhill homes around Greenhill Main Road, School Lane, Bocking Lane, the historic village green and pond area, Meadowhead, Lowedges, Beauchief and Woodseats, with survey-first guidance on older doors, worktop suitability, access and finish choices that suit the conservation-area village spine and practical family homes.
+Self-score: 94/100.
